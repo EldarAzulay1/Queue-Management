@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456690197118",
+    "project_id": "myapptor",
+    "storage_bucket": "myapptor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456690197118:android:ce0a5f15026dd0e3ceee2f",
+        "android_client_info": {
+          "package_name": "com.example.my_tor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456690197118-obn8n0ht1hblkdthn3266iftnn9v9pb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQcMaLDQwRmILRczDLT_2SnLBA4WA8N4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456690197118-obn8n0ht1hblkdthn3266iftnn9v9pb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

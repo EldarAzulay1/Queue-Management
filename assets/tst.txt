@@ -1,0 +1,4 @@
+import 'dart:convert';
+
+List<String> dataList = ['Item 1', 'Item 2', 'Item 3'];
+String jsonData = json.encode(dataList);
